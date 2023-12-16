@@ -1,0 +1,518 @@
+{
+  "OωO": {
+    "type": "emoticon",
+    "container": [
+      { "icon": "OωO", "text": "Author: DIYgod" },
+      { "icon": "|´・ω・)ノ", "text": "Hi" },
+      { "icon": "ヾ(≧∇≦*)ゝ", "text": "开心" },
+      { "icon": "(☆ω☆)", "text": "星星眼" },
+      { "icon": "（╯‵□′）╯︵┴─┴", "text": "掀桌" },
+      { "icon": "￣﹃￣", "text": "流口水" },
+      { "icon": "(/ω＼)", "text": "捂脸" },
+      { "icon": "∠( ᐛ 」∠)＿", "text": "给跪" },
+      { "icon": "(๑•̀ㅁ•́ฅ)", "text": "Hi" },
+      { "icon": "→_→", "text": "斜眼" },
+      { "icon": "୧(๑•̀⌄•́๑)૭", "text": "加油" },
+      { "icon": "٩(ˊᗜˋ*)و", "text": "有木有WiFi" },
+      { "icon": "(ノ°ο°)ノ", "text": "前方高能预警" },
+      { "icon": "(´இ皿இ｀)", "text": "我从未见过如此厚颜无耻之人" },
+      { "icon": "⌇●﹏●⌇", "text": "吓死宝宝惹" },
+      { "icon": "(ฅ´ω`ฅ)", "text": "已阅留爪" },
+      { "icon": "(╯°A°)╯︵○○○", "text": "去吧大师球" },
+      { "icon": "φ(￣∇￣o)", "text": "太萌惹" },
+      { "icon": "ヾ(´･ ･｀｡)ノ\"", "text": "咦咦咦" },
+      { "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃", "text": "气呼呼" },
+      { "icon": "(ó﹏ò｡)", "text": "我受到了惊吓" },
+      { "icon": "Σ(っ °Д °;)っ", "text": "什么鬼" },
+      { "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)", "text": "摸摸头" },
+      { "icon": "╮(╯▽╰)╭ ", "text": "无奈" },
+      { "icon": "o(*////▽////*)q ", "text": "脸红" },
+      { "icon": "＞﹏＜", "text": "" },
+      { "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)", "text": "" }
+    ]
+  },
+  
+  "blobcat":{
+    "type":"image",
+    "container": [
+      {
+        "text":"ablobangel",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobangel.png>"
+      },
+      {
+        "text":"ablobcatattentionreverse",
+        "icon":"<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatattentionreverse.png>"
+      },
+    
+     
+      {
+        "text": "ablobcatheart", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatheart.png'>"
+      },
+      {
+        "text": "ablobcatheartbroken", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatheartbroken.png'>"
+      },
+      {
+        "text": "ablobcatrainbow", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatrainbow.png'>"
+      },
+      {
+        "text": "ablobcatreachrev", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatreachrev.png'>"
+      },
+      {
+        "text": "ablobcatwave", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatwave.png'>"
+      },
+      {
+        "text": "blobamused", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobamused.png'>"
+      },
+      {
+        "text": "blobangery", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobangery.png'>"
+      },
+      {
+        "text": "blobangry", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobangry.png'>"
+      },
+      {
+        "text": "blobangrypuff", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobangrypuff.png'>"
+      },
+      {
+        "text": "blobaww", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobaww.png'>"
+      },
+      {
+        "text": "blobbanhammerr",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobbanhammerr.png'>"
+      },
+      {
+        "text": "blobbroken", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobbroken.png'>"
+      },
+      {
+        "text": "blobcat0_0", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcat0_0.png'>"
+      },
+      {
+        "text": "blobcatalt", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatalt.png'>"
+      },
+      {
+        "text": "blobcatangry", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatangry.png'>"
+      },
+      {
+        "text": "blobcatblush", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatblush.png'>"
+      },
+      {
+        "text": "blobcatbox", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatbox.png'>"
+      },
+      {
+        "text": "blobcatcaged", 
+         "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatcaged.png'>"
+      },
+      {
+        "text": "blobcatcoffee", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatcoffee.png'>"
+      },
+      {
+        "text": "blobcatcomftears", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatcomftears.png'>"
+      },
+      {
+        "text": "blobcatcomfy", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatcomfy.png'>"
+      },
+      {
+        "text": "blobcatcomfysweat", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatcomfysweat.png'>"
+      },
+      {
+        "text": "blobcatcry", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatcry.png'>"
+      },
+      {
+        "text": "blobcatdead", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatdead.png'>"
+      },
+      {
+        "text": "blobcatdied", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatdied.png'>"
+      },
+      {
+        "text": "blobcatdisturbed", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatdisturbed.png'>"
+      },
+      {
+        "text": "blobcatfacepalm", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatfacepalm.png'>"
+      },
+      {
+        "text": "blobcatfearful", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatfearful.png'>"
+      },
+      {
+        "text": "blobcatfingerguns", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatfingerguns.png'>"
+      },  
+         
+      {
+        "text": "blobcatflip", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatflip.png'>"
+      },
+    
+  
+      {
+        "text": "blobcatflower", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatflower.png'>"
+      },
+      {
+        "text": "blobcatgay", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatgay.png'>"
+      },
+      {
+        "text": "blobcatgooglycry",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatgooglycry.png'>"
+      },
+      {
+        "text": "blobcatgooglytrash", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatgooglytrash.png'>"
+      },
+      {
+        "text": "blobcatheadphones", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatheadphones.png'>"
+      },
+      {
+        "text": "blobcatheart", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatheart.png'>"
+      },
+      {
+        "text": "blobcatheartpride", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatheartpride.png'>"
+      },
+      {
+        "text": "blobcathighfive", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcathighfive.png'>"
+      },
+      {
+        "text": "blobcatkissheart", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatkissheart.png'>"
+      },
+      {
+        "text": "blobcatlove", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatlove.png'>"
+      },
+      {
+        "text": "blobcatmelt", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatmelt.png'>"
+      },
+      {
+        "text": "blobcatmeltthumb", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatmeltthumb.png'>"
+      },
+      {
+        "text": "blobcatneutral", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatneutral.png'>"
+      },
+      {
+        "text": "blobcatnomblobcat", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatnomblobcat.png'>"
+      },
+      {
+        "text": "blobcatnotlikethis", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatnotlikethis.png'>"
+      },
+      {
+        "text": "blobcatopenmouth", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatopenmouth.png'>"
+      },
+      {
+        "text": "blobcatpeek2", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatpeek2.png'>"
+      },
+      {
+        "text": "blobcatpeekaboo", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatpeekaboo.png'>"
+      },
+      {
+        "text": "blobcatphoto", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatphoto.png'>"
+      },
+      {
+        "text": "blobcatpolice", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatpolice.png'>"
+      },
+      {
+        "text": "blobcatpresentred", 
+       "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatpresentred.png'>"
+      },
+      {
+        "text": "blobcatread", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatread.png'>"
+      },
+      {
+        "text": "blobcatsadreach", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatsadreach.png'>"
+      },
+      {
+        "text": "blobcatsaitama", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatsaitama.png'>"
+      },
+      {
+        "text": "blobcatscared", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatscared.png'>"
+      },
+      {
+        "text": "blobcatshocked", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatshocked.png'>"
+      },
+      {
+        "text": "blobcatsipsweat", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatsipsweat.png'>"
+      },      
+      {
+        "text": "blobcatflip", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatflip.png'>"},
+      {
+        "text": "blobcatflower", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatflower.png'>"
+      },
+      {
+        "text": "blobcatgay", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatgay.png'>"
+      },
+      {
+        "text": "blobcatgooglycry",
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatgooglycry.png'>"
+      },
+      {
+        "text": "blobcatgooglytrash", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatgooglytrash.png'>"
+      },
+      {
+        "text": "blobcatheadphones", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatheadphones.png'>"
+      },
+      {
+        "text": "blobcatheart", 
+      "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatheart.png'>"},
+      {
+        "text": "blobcatheartpride", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatheartpride.png'>"
+      },
+      {
+        "text": "blobcathighfive", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcathighfive.png'>"
+      },
+      {
+        "text": "blobcatkissheart", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatkissheart.png'>"
+      },
+      {
+        "text": "blobcatlove", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatlove.png'>"
+      },
+      {
+        "text": "blobcatmelt", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatmelt.png'>"
+      },
+      {
+        "text": "blobcatmeltthumb", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatmeltthumb.png'>"
+      },
+      {
+        "text": "blobcatneutral", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatneutral.png'>"
+      },
+      {
+        "text": "blobcatnomblobcat", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatnomblobcat.png'>"
+      },
+      {
+        "text": "blobcatnotlikethis", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatnotlikethis.png'>"
+      },
+      {
+        "text": "blobcatopenmouth", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatopenmouth.png'>"
+      },
+      {
+        "text": "blobcatpeek2", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatpeek2.png'>"
+      },
+      {
+        "text": "blobcatpeekaboo", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatpeekaboo.png'>"
+      },
+      {
+        "text": "blobcatphoto", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatphoto.png'>"
+      },
+      {
+        "text": "blobcatpolice", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatpolice.png'>"
+      },
+      {
+        "text": "blobcatpresentred", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatpresentred.png'>"
+      },
+      {
+        "text": "blobcatread", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatread.png'>"
+      },
+      {
+        "text": "blobcatsadreach", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatsadreach.png'>"
+      },
+      {
+        "text": "blobcatsaitama", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatsaitama.png'>"
+      },
+      {
+        "text": "blobcatscared", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatscared.png'>"
+      },
+      {
+        "text": "blobcatshocked", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatshocked.png'>"
+      },
+      {
+        "text": "blobcatsipsweat", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatsipsweat.png'>"
+      },
+      {
+        "text": "blobcatsnapped", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatsnapped.png'>"
+      },
+      {
+        "text": "blobcatsnuggle", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatsnuggle.png'>"
+      },
+      {
+        "text": "blobcatt", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatt.png'>"
+      },
+      {
+        "text": "blobcatthink", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatthink.png'>"
+      },
+      {
+        "text": "blobcattriumph", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcattriumph.png'>"
+      },
+      {
+        "text": "blobcatumm", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatumm.png'>"
+      },
+      {
+        "text": "blobcatverified", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatverified.png'>"
+      },
+      {
+        "text": "blobcatyandere", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatyandere.png'>"
+      },
+      {
+        "text": "blobclipboard", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobclipboard.png'>"
+      },
+      {
+        "text": "blobcmereyou", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcmereyou.png'>"
+      },
+      {
+        "text": "blobcool", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcool.png'>"
+      },
+      {
+        "text": "blobcouple", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcouple.png'>"
+      },
+      {
+        "text": "blobglare", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobglare.png'>"
+      },
+      {
+        "text": "blobglassesdown", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobglassesdown.png'>"
+      },
+      {
+        "text": "blobhug2", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobhug2.png'>"
+      },
+      {
+        "text": "blobidea", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobidea.png'>"
+      },
+      {
+        "text": "blobmeltsob", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobmeltsob.png'>"
+      },
+      {
+        "text": "blobmeltsoblove", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobmeltsoblove.png'>"
+      },
+      {
+        "text": "blobnervouspleading", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobnervouspleading.png'>"
+      },
+      {
+        "text": "blobnogood", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobnogood.png'>"
+      },
+      {
+        "text": "blobpensivepray", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobpensivepray.png'>"
+      },
+      {
+        "text": "blobsad", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobsad.png'>"
+      },
+      {
+        "text": "blobsmiletear", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobsmiletear.png'>"
+      },
+      {
+        "text": "blobsob", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobsob.png'>"
+      },
+      {
+        "text": "blobsobglasses", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobsobglasses.png'>"
+      },
+      {
+        "text": "blobthinking", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobthinking.png'>"
+      },
+      {
+        "text": "blobthinkingcool", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobthinkingcool.png'>"
+      },
+      {
+        "text": "blobwaitwhat", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobwaitwhat.png'>"
+      },
+      {
+        "text": "comfynight", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/comfynight.png'>"
+      },
+      {
+        "text": "comfyslep", "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/comfyslep.png'>"
+      },
+      {
+        "text": "comfyuee", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/comfyuee.png'>"}
+      {
+        "text": "info", 
+        "icon": "<img src='https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/info.png'>"
+      }
+
+      ]
+    },
+}      
